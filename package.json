@@ -1,0 +1,26 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "This is the repo for the UC Berkeley Blended-Online Fullstack class starting July 15th, 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtankha/just-tech-news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtankha/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/gtankha/just-tech-news#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
